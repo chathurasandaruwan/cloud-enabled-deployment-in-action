@@ -47,7 +47,7 @@ This repository contains four projects:
   - npm run preview (Preview built app)
 
 ## Course-service DB Setup(Google Cloud SQL)
--📹 Demo Video
+#### **📹 Demo Video**
 
 👉 [Watch the full demo here:](https://drive.google.com/file/d/1BHUzp2bU5hJk0iJGFPOGUNvDqs6AYMqO/view?usp=sharing)
 
