@@ -1,4 +1,8 @@
-# Cloud Enabled Deployment In Action with AWS
+# Cloud Enabled Deployment In Action with GCP and AWS
+
+- Name: Chathura Sandaruwan
+- Student Id: 2301671043
+- Email: chathurasandaruwan122@gmail.com
 
 This repository contains four projects:
 
